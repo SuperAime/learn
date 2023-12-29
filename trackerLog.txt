@@ -1,0 +1,4 @@
+2023-12-27 18:29:31:reciver boot reciver,the mobile will power on
+2023-12-27 18:29:31:BksService has onCreate
+2023-12-27 18:29:31:PollingService has onCreate
+2023-12-27 19:06:31:UpdateProtocol: try to call getCmdAndParam，but network is unconnected

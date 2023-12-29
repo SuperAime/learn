@@ -1,0 +1,17 @@
+Open SharpNeat solution.
+
+Select "SharpNeatGUI" as startup project
+Set configuration to Release
+Build and Start
+
+Once the app is running, on the main page...
+- Click "Load Domain Default Parameters"
+- Click "Create Random Population"
+- Click "Start / Continue"
+
+Once the simulation is running, to see what is happening...
+- Click "View" / "Best Genome" to see genome complexity as it grows.
+- Click "View" / "Problem Domain" to see the maze and how well the agents do.
+  - Here, click "Reset" to try at another maze. You also need to press reset to move to the current generation.
+
+If you're interested in the code, the relevant part is located in the "SharpNeatDomains" project, under the "Balage" folder.
